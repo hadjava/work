@@ -1,0 +1,304 @@
+    1  cd home
+    2  tree
+    3  sudo apt install tree
+    4  tree
+    5  sudo apt install tree
+    6  ls
+    7  ssh-keygen.exe
+    8  pwd
+    9  cat .ssh/id_rsa.pub
+   10  nano .ssh/authorized_keys
+   11  nano .ssh/authorized_keys
+   12  nano .ssh/authorized_keys
+   13  ssh 280223@linux.telran-edu.de
+   14  ssh 280223@linux.telran-edu.de
+   15  ssh 280223@linux.telran-edu.de
+   16  ssh 280223@linux.telran-edu.de
+   17  cat
+   18  200~ssh 280223@linux.telran-edu.de
+   19  ssh 280223@linux.telran-edu.de
+   20  ssh 280223@linux.telran-edu.de
+   21  ssh 280223@linux.telran-edu.de
+   22  ssh 280223@linux.telran-edu.de
+   23  ssh 280223@linux.telran-edu.de://home/280223/HADJAVA/hello.txt Desktop/
+   24  ssh 280223@linux.telran-edu.de://home/280223/HADJAVA/hello.txt Desktop/hello.txt
+   25  ssh 280223@linux.telran-edu.de
+   26  scp 280223@linux.telran-edu.de:/home/280223/HADJAVA/hello.txt Desktop/
+   27  mv Desktop/hello_123.txt
+   28  ls Desktop/hello.txt
+   29  cat Desktop/hello.txt
+   30  mv Desktop/hello.txt Desktop/hello_123.txt
+   31  ls Desktop/hello_123.txt
+   32  pwd
+   33  scp Desktop/hello_123.txt 280223@linux.telran-edu.de:/home/280223/HADJAVA/ 
+   34  ssh 280223@linux.telran-edu.de
+   35  ssh 280223@linux.telran-edu.de
+   36  pwd
+   37  ls -l
+   38  tree
+   39  tree
+   40  sudo apt install tree
+   41  sudo apt update
+   42  cmd //c tree
+   43  tree -d
+   44  cmd //d tree
+   45  times
+   46  HOSTTYPE
+   47  $HOSTTYPE
+   48  exit
+   49  cal
+   50  nano Khadzhava.sh
+   51  nano Khadzhava.sh
+   52  cd desktop
+   53  cd git
+   54  git config --global -l
+   55  git config --global user.name Dmytro
+   56  git config --global user.email d.hadjava@gmail.com
+   57  git config --global -l
+   58  git config --global user.name hadjava
+   59  git config --global -l
+   60  git version
+   61  git config --global -l
+   62  git clone git@github.com:hadjava/git.git
+   63  cd desktop
+   64  cd git
+   65  git clone git@github.com:hadjava/git.git
+   66  git clone git@github.com:hadjava/git.git
+   67  git clone git@github.com:hadjava/work.git
+   68  ssh-keygen -t ed25519 -C "d.hadjava@gmail.com"
+   69  ssh-keygen -t ed25519 -C "d.hadjava@gmail.com"
+   70  cat hadjava
+   71  # start the ssh-agent in the background
+   72  $ eval "$(ssh-agent -s)"
+   73  eval "$(ssh-agent -s)"
+   74  ssh-add ~/.ssh/id_ed25519
+   75  cd c
+   76  cd
+   77  cd c:\
+   78  cd c:
+   79  ls-la
+   80  ls -l
+   81  cd temp
+   82  cd c:
+   83  cd SSHGIT
+   84  ls -l
+   85  ssh-keygen -t ed25519 -C "d.hadjava@gmail.com"
+   86   ssh-add ~/.ssh/id_ed25519
+   87   ssh-add ~/.ssh/id_ed25519
+   88   ssh-add ~/.ssh/hadjava
+   89  cat hadjava.pub
+   90  git clone git@github.com:hadjava/work.git
+   91  git commit -m
+   92  git push
+   93  git push script1.sh
+   94  git pull
+   95  git init
+   96  git add FE/script1.ssh
+   97  git add FE/
+   98  git add FE/script1.sh
+   99  git add FE/c/SSHGIT/script1.sh
+  100  git add .
+  101  git clone git@github.com:hadjava/work.git
+  102  git clone git@github.com:hadjava/git.git
+  103  git add .
+  104  git add FE/
+  105  git status -s
+  106  cd c:
+  107  cd SSHGIT
+  108  git init
+  109  git status
+  110  git status
+  111  git add test_resource.txt
+  112  git status
+  113  git add GitTest.java
+  114  git status
+  115  git commit - m "all txt files were added to the project"
+  116  git commit -m "all txt files were added to the project"
+  117  git log
+  118  git status
+  119  git diff
+  120  git add test_resource.txt
+  121  git commit -m "added hello world"
+  122  git log
+  123  git branch -a
+  124  git config ==list
+  125  git config --list
+  126  gitk
+  127  git status
+  128  cd c:
+  129  cd SSHGIT
+  130  git status
+  131  git branch test
+  132  git checkout test
+  133  git status
+  134  git status
+  135  git remote -v
+  136  git clone git@github.com:hadjava/work.git
+  137  git clone git@github.com:hadjava/work.git
+  138  cd c
+  139  cd c:
+  140  cd SSHGIT
+  141  git clone git@github.com:hadjava/work.git
+  142  git add 123.txt
+  143  git status
+  144  git commit -m "New kommentary"
+  145  git status
+  146  git push
+  147  git push 123.txt
+  148  git remote -v
+  149  cd c:
+  150  cd sshgit
+  151  git clone git@github.com:hadjava/work.git
+  152  git clone git@github.com:hadjava/work.git
+  153  git config --global user.email 'd.hadjava@gmail.com'
+  154  git config --global [user.name] 'hadjava'
+  155  git config --global [user.name] (<http://user.name>)'hadjava'
+  156  git config --global [user.name] (<http://user.name>) 'hadjava'
+  157  git config --global [user.name] (<http://user.name>) hadjava
+  158  git config --global user.name hadjava
+  159  git config --global -l
+  160  git remote -v
+  161  pwd
+  162  cd c:/sshgit/work
+  163  git clone git@github.com:hadjava/work.git
+  164  ssh-keygen -t rsa -b 4096 -C d.hadjava@gmail.com
+  165  clip < ~/.ssh/id_rsa.pub
+  166  ssh hadjava@github.com
+  167  nano ~/.ssh/authorized_keys
+  168  git --version
+  169  cd c:/sshgit/work
+  170  git remote set-url origin git@github.com/hadjava/work
+  171  git remote set-url origin git@hadjava:hadjava/work.git
+  172  git remote set-url origin git@github:hadjava/work.git
+  173  git remote set-url origin git@github.com:hadjava/work.git
+  174  ssh-keygen - t rsa
+  175  ssh-keygen -t rsa
+  176  cat
+  177  cd c:
+  178  cd sshgit/sshkey
+  179  cat id.rsa.pub
+  180  git config --global user.email 'd.hadjava@gmail.com'
+  181  git config --global [user.name] (<http://user.name>)'hadjava'
+  182  git config --global [user.name] 'hadjava'
+  183  git config --global user.name 'hadjava'
+  184  cd c:/sshgit/work
+  185  git clone git@github.com:hadjava/work.git
+  186  git clone https://github.com/hadjava/work.git
+  187  git remote -v
+  188  git add homework_13_06_2023.txt
+  189  git commit -m "Добавлен файл file.txt"
+  190  git remote -v
+  191  git init
+  192  git remote -v
+  193  git add homework_13_06_2023.txt
+  194  git add homework_13_06_2023.txt
+  195  git add .
+  196  git add homework_13_06_2023.txt
+  197  git add homework_13_06_2023
+  198  ды -д
+  199  ls -l
+  200  pwd
+  201  git add /c/sshgit/work/homework_13_06_2023.txt
+  202  git add test.tx
+  203  git add test.txt
+  204  git add test
+  205  git commit -m "новый файл добавлен"
+  206  git add homework_13_06_2023.txt
+  207  git push work master
+  208  git add homework_13_06_2023.txt
+  209  ssh-keygen -t ed25519 -C "d.hadjava@gmail.com"
+  210  ssh-keygen -t ed25519 -C "d.hadjava@gmail.com"
+  211  git init
+  212  git add homework_13_06_2023.txt 
+  213  git clone git@github.com:hadjava/work.git
+  214  git clone git@github.com:hadjava/work.git
+  215  git commit -m "новый файл"
+  216  git push 
+  217  git push work
+  218  git push work main
+  219  git push work master
+  220  git clone git@github.com:hadjava/work.git
+  221  git clone git@github.com:hadjava/work.git
+  222  cd c:
+  223  cd sshgit
+  224  cd lesson2
+  225  pwd
+  226  ls -l
+  227  > file4.txt
+  228  > file3.txt
+  229  git init
+  230  git status
+  231  git add .
+  232  git status
+  233  git commit -m "Init commit"
+  234  git status
+  235  git remote -v
+  236  git remote add origin git@github.com:hadjava/lesson2.git
+  237  git branch -M main
+  238  git status
+  239  git push -u origin main
+  240  cd c:/sshgit
+  241  cd work
+  242  ls -al
+  243  git status
+  244  git pull
+  245  git status
+  246  git commit -m "modifited new files"
+  247  nano file1.txt
+  248  git add .
+  249  ls -al
+  250  git status
+  251  rm -rf .git/
+  252  ls -al
+  253  cd work
+  254  git push
+  255  git status
+  256  cd c:/sshgit/work
+  257  cd c:/sshgit/work/work
+  258  nano file1.txt
+  259  git status
+  260  git checkout file1.txt
+  261  git init
+  262  git status
+  263  git checkout file1.txt
+  264  > file2.txt
+  265  git status
+  266  git clean -xdn
+  267  git clean -xd
+  268  git status
+  269  > file2.txt
+  270  nano file2.txt 
+  271  git add .
+  272  git status
+  273  git log
+  274  git status
+  275  git commit --amend -m "Ok file2"
+  276  git log
+  277  git push
+  278  git push --force
+  279  git status
+  280  cd c:
+  281  cd sshgit
+  282  cd lesson2
+  283  git status
+  284  git pull
+  285  history > history.txt
+  286  ls -l
+  287  nano file2
+  288  git status
+  289  git checkout -- file2
+  290  ls -l
+  291  git commit -m "File write ok"
+  292  git add .
+  293  git add .
+  294  git commit -m "File write ok"
+  295  git status
+  296  git checkout -- file2
+  297  git status
+  298  ls -l
+  299  git checkout -- .
+  300  git status
+  301  ls -l
+  302  git commit --amend
+  303  git status
+  304  history > history.txt
